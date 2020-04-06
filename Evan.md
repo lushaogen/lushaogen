@@ -38,6 +38,8 @@
   
   ![image-20200406192812979](https://i.loli.net/2020/04/06/kMtYwBifxNgHWqp.png)
   
+  ![image-20200406194042464](upload/image-20200406194042464.png)
+  
   这时候本地需要创建一个本地仓库：
 
 ```
