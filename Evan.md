@@ -16,13 +16,13 @@
 
   去默认地址copy需要的文件：（C:\Users\13030\.ssh\）
   
-  ![image-20200406184159845](upload\image-20200406184159845.png)
+  ![image-20200406192351519](https://i.loli.net/2020/04/06/y4eKXNjx3qO5LTr.png)
   
   
   
   打开后进行复制里面的内容，去GitHub里面粘贴添加。
   
-  ![image-20200406184058909](upload\image-20200406184058909.png)
+  ![image-20200406192442691](https://i.loli.net/2020/04/06/9puRKqJNjPEFabW.png)
   
   
   
@@ -36,9 +36,7 @@
   
   第一次连接我们需要验证一下填写yes并连接账户：
   
-  ![image-20200406184418621](upload\image-20200406184418621.png)
-  
-  
+  ![image-20200406192812979](https://i.loli.net/2020/04/06/kMtYwBifxNgHWqp.png)
   
   这时候本地需要创建一个本地仓库：
 
