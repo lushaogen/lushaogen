@@ -1,0 +1,2 @@
+﻿Add-Migration Migrations
+Update-Database -Verbose
